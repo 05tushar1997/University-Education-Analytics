@@ -76,6 +76,7 @@ The dashboard features a variety of visualizations to help users understand and 
 - **Column Charts:** Display's number of students enrolled by each month.
 - **Tree Map:** Shows total budget by each department.
 - **Slicers:** Enable users to filter data dynamically based on Department and Grades.
-<img width="692" alt="Screenshot (596)" src="https://github.com/05tushar1997/Fleet-Management-Transportation-Logistics/assets/161101934/fd381c90-04ee-43ef-b913-e3e10a4656b2">
+<img width="707" alt="Screenshot (609)" src="https://github.com/05tushar1997/University-Education-Analytics/assets/161101934/401a6626-4627-40b7-85bb-5bc0d1d3d8a8">
+
 
 ## THANKING YOU!   
