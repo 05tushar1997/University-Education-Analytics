@@ -64,3 +64,18 @@ The data is generated using the `Faker` library to create realistic, synthetic d
 - `department`: Name of the department.
 - `budget`: Budget allocated to the department.
 <img width="539" alt="Screenshot (607)" src="https://github.com/05tushar1997/University-Education-Analytics/assets/161101934/c5520067-5c38-40c3-93b1-98c7c563d5c3">
+
+### Dashboard Visualizations
+
+The dashboard features a variety of visualizations to help users understand and interpret the data effectively:
+
+- **KPI Indicators:** Highlight key performance indicators such as total budget, Number of Departments, Number of Students & Number of Faculties.
+- **Bar Charts:** Shows, How many number of Faculties are their by each Department.
+- **Pie Charts:** Illustrate the distribution of Number of students by the Major.
+- **Donut Charts:** Illustrate the distribution of Number of students by their grades.
+- **Column Charts:** Display's number of students enrolled by each month.
+- **Tree Map:** Shows total budget by each department.
+- **Slicers:** Enable users to filter data dynamically based on Department and Grades.
+<img width="692" alt="Screenshot (596)" src="https://github.com/05tushar1997/Fleet-Management-Transportation-Logistics/assets/161101934/fd381c90-04ee-43ef-b913-e3e10a4656b2">
+
+## THANKING YOU!   
