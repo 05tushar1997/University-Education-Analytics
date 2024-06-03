@@ -73,10 +73,11 @@ The dashboard features a variety of visualizations to help users understand and 
 - **Bar Charts:** Shows, How many number of Faculties are their by each Department.
 - **Pie Charts:** Illustrate the distribution of Number of students by the Major.
 - **Donut Charts:** Illustrate the distribution of Number of students by their grades.
-- **Column Charts:** Display's number of students enrolled by each month.
+- **Line Charts:** Display's number of students enrolled by each month.
 - **Tree Map:** Shows total budget by each department.
 - **Slicers:** Enable users to filter data dynamically based on Department and Grades.
-<img width="707" alt="Screenshot (609)" src="https://github.com/05tushar1997/University-Education-Analytics/assets/161101934/401a6626-4627-40b7-85bb-5bc0d1d3d8a8">
+<img width="775" alt="Screenshot (610)" src="https://github.com/05tushar1997/University-Education-Analytics/assets/161101934/cb28559b-0988-4245-8067-2b97bcf764d9">
+
 
 
 ## THANKING YOU!   
